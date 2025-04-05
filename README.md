@@ -1,6 +1,6 @@
 # WPF iOS-Style Calculator
 
-![Calculator Screenshot](images/calculator.jpg)
+![Calculator Screenshot](calculator.jpg)
 
 ## 📝 Опис
 

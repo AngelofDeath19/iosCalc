@@ -1,0 +1,61 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Rr]eleases/
+x64/
+x86/
+build/
+Build/
+bld/
+
+# Nuget Packages
+packages/
+*.nupkg
+#NuGet v3's project.json cache
+project.lock.json
+# NuGet v3's build cache
+*.nuget.props
+*.nuget.targets
+
+# Tmp files
+*.log
+*.tlog
+*.tmp
+
+# OS generated files
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Rider / Resharper specific
+_ReSharper.*/
+*.resharper
+*.DotSettings.user
+
+# Secrets (good practice, though unlikely for a calculator)
+*.secrets.json
+secrets.json
+
+# Test results
+TestResults/
+*.trx
+*.coverlet.json
+
+# Specific to some WPF/XAML tooling
+Generated_Code/
+
+# User Local Settings
+*.settings
